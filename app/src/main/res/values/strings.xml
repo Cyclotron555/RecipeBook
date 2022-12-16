@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecipeBook</string>
+    <string name="tap_the_new_recipe_button_to_get_started">Tap the New Recipe button to get started</string>
+    <string name="new_recipe">New Recipe</string>
+    <string name="preferences">Preferences</string>
+    <string name="save_and_exit">Save and Exit</string>
+    <string name="open_recipe">Open Recipe</string>
+    <string name="recipebook">RecipeBook</string>
+</resources>
