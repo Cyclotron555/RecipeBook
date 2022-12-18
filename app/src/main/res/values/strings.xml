@@ -4,6 +4,6 @@
     <string name="new_recipe">New Recipe</string>
     <string name="preferences">Preferences</string>
     <string name="save_and_exit">Save and Exit</string>
-    <string name="open_recipe">Open Recipe</string>
+    <string name="open_recipe">All Recipes</string>
     <string name="recipebook">RecipeBook</string>
 </resources>
